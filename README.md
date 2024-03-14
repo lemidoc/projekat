@@ -1,6 +1,6 @@
 # UNT u pokretu
 
-Web site made with HTML, CSS, JS and Bootstrap.
+Web site made with HTML, CSS and Bootstrap.
 
 Theme: Students organisation
 
